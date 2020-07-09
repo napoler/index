@@ -63,6 +63,7 @@ layout: home
 - [tabnine Ai代码补全](https://tabnine.com/) 基于人工智能的自动补全工具
 - [Pypi工具包](https://pypi.org/)
 - [Npm工具包](https://www.npmjs.com/)
+- [vimawesome](https://vimawesome.com/)
 
 
 - [ChineseAnnotator文本标记工具](https://github.com/t-web/ChineseAnnotator)
